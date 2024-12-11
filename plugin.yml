@@ -1,0 +1,7 @@
+name: codecov-wrapper post-command
+description: Executes codecov-wrapper as a post-command hook
+author: https://github.com/cysp
+requirements: []
+configuration:
+  properties: {}
+  additionalProperties: false
